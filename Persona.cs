@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace Personas
+namespace Alumnos
 {
-    class Persona
+    public class Persona
     {
         public string nombre;
         public string apellido;
